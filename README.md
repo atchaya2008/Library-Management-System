@@ -36,8 +36,8 @@ java -cp out librarymanagement.Main
 - Association: borrowing and return transactions directly reference the relevant book and member.
 
 ## Author details
-- Name: [Enter your name]
-- Roll No.: [Enter your roll number]
+- Name: Atchaya B
+- Roll No.: 717825i207
 # Library-Management-System
 Java assignment project implementing a Library Management System to handle book inventory, user records, and issue/return workflows
 
